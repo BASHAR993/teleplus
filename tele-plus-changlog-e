@@ -1,19 +1,17 @@
-Version 2.0.0 Change:
+الإصدار 2.0.0 التغيير:
 
-> Updated source code to v9.4.9.0.
-> Added option to Login with QR Code, Scan the code with another device (Settings -> Devices -> Link Device).
-> Added option to hide transcription button in voice messages.
-> Added option to show user status circle on chat screen only if online.
-> Added option to show user status circle on home screen only if online.
-> New feature: Open Settings search using the link
-> New feature: Open the search in Telegram Gold settings using the link
-> Emojis and stickers as profile picture.
-> Translate entire chats.
-> Use detailed data.
-> Mood based categories for emojis, gifs, and stickers.
-> New group permissions.
-> Extended autosave options.
-> Feedback on selected media.
-> New icons for data and storage usage.
-> Agent rotation.
-> Bug fixes.
+> تحديث كود المصدر إلى v9.4.9.0.
+> خيار مضاف لتسجيل الدخول باستخدام QR Code ، مسح الرمز بجهاز آخر (الإعدادات -> الأجهزة -> ربط الجهاز).
+> خيار مضاف لإخفاء زر النسخ في الرسائل الصوتية.
+> خيار مضاف لإظهار دائرة حالة المستخدم على شاشة الدردشة فقط في حالة الاتصال بالإنترنت.
+> خيار مضاف لإظهار دائرة حالة المستخدم على الشاشة الرئيسية فقط في حالة الاتصال بالإنترنت.
+> ميزة جديدة: افتح بحث الإعدادات باستخدام الرابط
+> ميزة جديدة: افتح البحث في إعدادات Telegram Gold باستخدام الرابط
+> الرموز التعبيرية والملصقات كصورة الملف الشخصي.
+> ترجمة الدردشات بأكملها.
+> استخدام البيانات التفصيلية.
+> الفئات القائمة على الحالة المزاجية للرموز التعبيرية ، والصور المتحركة ، والملصقات.
+> أذونات المجموعة الجديدة.
+> موسعة خيارات الحفظ التلقائي.
+> ردود الفعل على الوسائط المحددة.
+> إصلاحات الأخطاء.
